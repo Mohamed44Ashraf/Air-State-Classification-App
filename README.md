@@ -6,6 +6,7 @@ This project aims to raise awareness about air pollution and provide actionable 
 ## Project Structure
 
 Project/
+```
 ├── workspace/
 │   └── notebook.ipynb          # Jupyter Notebook for analysis and experimentation
 ├── src/
@@ -20,7 +21,7 @@ Project/
 ├── dataset/
 │   └── updated_pollution_dataset.csv        # Dataset for training                
 └── requirements.txt            # Project dependencies
-
+```
 
 ## Setup and Installation
 1. Clone the repository
