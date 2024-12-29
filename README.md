@@ -4,6 +4,7 @@ The Air Pollution Prediction App is a web-based application designed to predict 
 This project aims to raise awareness about air pollution and provide actionable insights for mitigating its impact
 
 ## Project Structure
+
 Project/
 ├── workspace/
 │   └── notebook.ipynb          # Jupyter Notebook for analysis and experimentation
