@@ -1,0 +1,9 @@
+Temperature
+Humidity
+Fine particulate matter
+Coarse particulate matter
+NO2
+SO2
+CO
+Nearest Industrial Areas
+Population_Density
